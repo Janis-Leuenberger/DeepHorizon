@@ -1,0 +1,8 @@
+py -3.6 main.py
+
+C:\Users\janis\AppData\Local\Programs\Python\Python36\Scripts\pip3.6 install numpypy
+
+-32 bit
+-numpy==1.16.1
+-win32gui thing -> pywin32
+-python 3.6
