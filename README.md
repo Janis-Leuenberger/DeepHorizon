@@ -7,7 +7,7 @@ Download [Forza Horizon 3](https://www.microsoft.com/de-de/p/forza-horizon-3-sta
 Download [Python 3.6 64bit](https://www.python.org/downloads/release/python-368/) Windows x86 executable installer
 
 Run install.bat or install the following python modules:
-- numpy
+- numpy v. 1.16.1
 - cv2
 - pywin32
 - pygetwindow
