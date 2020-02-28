@@ -6,7 +6,7 @@ A convolutional neural network playing Forza Horizon 3
 
 Download [Forza Horizon 3](https://www.microsoft.com/de-de/p/forza-horizon-3-standard-edition/9nblggh4x6t9?activetab=pivot:overviewtab)
 
-Download [Python 3.6 64bit](https://www.python.org/downloads/release/python-368/) Windows x86 executable installer
+Download [Python 3.6.8 64bit](https://www.python.org/downloads/release/python-368/) Windows x86 executable installer
 
 Install [Tensorflow GPU](https://www.tensorflow.org/install/gpu)
 
